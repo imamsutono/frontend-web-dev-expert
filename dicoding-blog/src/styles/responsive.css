@@ -4,6 +4,10 @@
 }
 
 @media screen and (min-width: 700px) {
+  .headline__content {
+    padding: 16px 48px;
+  }
+
   .posts {
     display: grid;
     grid-template-columns: 1fr 1fr;
